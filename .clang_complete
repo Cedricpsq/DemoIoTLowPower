@@ -3,6 +3,8 @@
 -IC:/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src
 -IC:/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src
 -IC:/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src
+-ID:/Logiciel/GIT/Répo/DemoIoTLowPower/.pio/libdeps/nodemcu-32s/LiquidCrystal_I2C
+-IC:/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src
 -ID:/Logiciel/GIT/Répo/DemoIoTLowPower/.pio/libdeps/nodemcu-32s/ArduinoJson/src
 -IC:/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config
 -IC:/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace
@@ -91,7 +93,6 @@
 -IC:/.platformio/packages/framework-arduinoespressif32/libraries/Update/src
 -IC:/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src
 -IC:/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src
--IC:/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src
 -IC:/.platformio/packages/toolchain-xtensa32/xtensa-esp32-elf/include/c++/5.2.0
 -IC:/.platformio/packages/toolchain-xtensa32/xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf
 -IC:/.platformio/packages/toolchain-xtensa32/lib/gcc/xtensa-esp32-elf/5.2.0/include
